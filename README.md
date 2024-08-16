@@ -1,6 +1,8 @@
 # rsnow
 snow.sh but in rust
-#Installation
+
+# Installation
+
 ```
 git clone https://github.com/Botan-Yuukan/rsnow --depth=1
 cd rsnow
